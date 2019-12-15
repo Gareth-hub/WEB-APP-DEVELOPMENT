@@ -1,0 +1,42 @@
+[
+	{
+	  "location"  		: "Central City",
+	  "description"		: "Snow",
+	  "image"			: "image/snowCloud.png",
+	  "temp"			: "-8 Celcius",
+	  "humidity"		: 26,
+	  "wind speeed"		: 11 
+	},
+	{
+	  "location"  		: "North Dublin City",
+	  "description"		: "Cloudy",
+	  "image"			: "image/cloudy2.png",
+	  "temp"			: "-7 Celcius",
+	  "humidity"		: 34,
+	  "wind speeed"		: 7.6
+	},
+	{
+	  "location"  		: "North County Dublin",
+	  "description"		: "Rain",
+	  "image"			: "image/rainy.png",
+	  "temp"			: "-8 Celcius",
+	  "humidity"		: 47,
+	  "wind speeed"		: 9.8
+	},
+	{
+	  "location"  		: "South Dublin City",
+	  "description"		: "Cloudy",
+	  "image"			: "image/cloudy1.png",
+	  "temp"			: "-9 Celcius",
+	  "humidity"		: 8,
+	  "wind speeed"		: 3.47
+	},
+	{
+	  "location"  		: "South County Dublin",
+	  "description"		: "Snow",
+	  "image"			: "image/snowy.png",
+	  "temp"			: "-5 Celcius",
+	  "humidity"		: 20,
+	  "wind speeed"		: 13.9
+	}
+  ]

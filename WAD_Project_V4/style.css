@@ -1,0 +1,94 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+	background: white;
+	background-image: url('backgroundweather.png');
+	background-repeat: repeat;
+	background-size: 100% 100%;
+}
+
+.title{
+	text-align: center;
+	background: #A4A4A4;
+	margin: 20px auto;
+	border-radius: 25px;
+}
+
+.selection-box{
+	border-style: 	groove;
+	background: #A4A4A4;
+	text-align: center;
+	margin: 20px auto;
+	width: 300px;
+	border-radius: 25px;
+}
+
+.display{
+	border-style: 	groove;
+	text-align: center;
+	height: 440px;
+	border-radius: 25px;
+	padding: 20px;
+	background: #A4A4A4;
+}
+
+.display-picture{
+	border-style: groove;
+	float: right;
+	width: 50%;
+}
+
+.title2{
+	border-style: 	groove;
+	text-align: center;
+	width: 50%;
+}
+
+.temperature{
+	border-style: 	groove;
+	text-align: center;
+	width: 50%;
+}
+
+.description{
+	border-style: 	groove;
+	text-align: center;
+	width: 50%;
+}
+
+.sub-display{
+	border-style: 	groove;
+	text-align: center;
+	margin-bottom: 100px auto;
+	height: 260px;
+	background: #A4A4A4;
+	border-radius: 25px;
+}
+
+.humidity{
+	border-style: 	groove;
+	text-align: center;
+	width: 50%;
+}
+
+.wind-speed{
+	border-style: 	groove;
+	text-align: center;
+	width: 50%;
+}
+
+.date{
+	border-style: 	groove;
+	text-align: center;
+	width: 50%
+}
+
+.time{
+	border-style: 	groove;
+	text-align: center;
+	width: 50%
+}
